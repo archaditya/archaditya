@@ -15,7 +15,7 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 
 ## Projects
 
-Feel free to explore more projects on my [Repo](https://github.com/archadi?tab=repositories)!
+Feel free to explore more projects on my [Repo](https://github.com/archaditya?tab=repositories)!
 
 ## Get in Touch
 
