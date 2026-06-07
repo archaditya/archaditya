@@ -4,7 +4,7 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 
 ## About Me
 
-- 🎖️ [My Portfolio](https://akk-portfolio.vercel.app/)!
+- 🎖️ [My Portfolio](https://archadi.dev/)!
 - 📝 [My Resume](https://drive.google.com/file/d/1e0LWmP6fZJR0JXdFsc_sk_UfCMZpT2vH/view)!
 - 💻 Self-taught developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
@@ -15,7 +15,7 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 
 ## Projects
 
-Feel free to explore more projects on my [Repo](https://github.com/adityakkpk?tab=repositories)!
+Feel free to explore more projects on my [Repo](https://github.com/archadi?tab=repositories)!
 
 ## Get in Touch
 
