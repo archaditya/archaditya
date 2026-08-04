@@ -78,7 +78,7 @@ Current roadmap includes:
 - 💼 LinkedIn: https://linkedin.com/in/akkpk
 - 🐦 X: https://x.com/archadi_dev
 - 📧 Email: akkpk933@gmail.com
-- 📃 Resume: https://drive.google.com/file/d/1_m5DHZDJ3d_tg8rgGBQN1aQFtYBDmrNJ/view?usp=drivesdk
+- 📃 Resume: https://drive.google.com/file/d/1ocDAJkHV-2fs_eAvr8YN1nvOTHXQrlBA/view?usp=drivesdk
 ---
 
 ⭐ Always building, always learning.
