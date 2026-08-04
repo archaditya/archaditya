@@ -75,7 +75,7 @@ Current roadmap includes:
 ## 📫 Connect
 
 - 🌐 Portfolio: https://archadi.dev
-- 💼 LinkedIn: https://linkedin.com/in/adityakumarkushwaha
+- 💼 LinkedIn: https://linkedin.com/in/akkpk
 - 🐦 X: https://x.com/archadi_dev
 - 📧 Email: akkpk933@gmail.com
 
