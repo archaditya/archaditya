@@ -36,49 +36,13 @@ Distributed Systems • Event-Driven Architecture • AI Engineering
 
 ---
 
-## 📌 Featured Project
-
-### ByteVault
-
-A production-focused cloud file storage platform built with Go.
-
-Current roadmap includes:
-
-- Secure File Uploads
-- Cloudflare R2 Integration
-- Multipart Uploads
-- Background Processing
-- Distributed Architecture
-
----
-
-## 📈 2026 Goals
-
-- Ship ByteVault publicly
-- Build production-grade backend systems
-- Deep dive into AI Engineering
-- Contribute to Open Source
-- Share my learning journey
-
----
-
-## 💡 Engineering Philosophy
-
-> Build simple.
->
-> Scale when necessary.
->
-> Write code your future self will thank you for.
-
----
-
 ## 📫 Connect
 
 - 🌐 Portfolio: https://archadi.dev
 - 💼 LinkedIn: https://linkedin.com/in/akkpk
 - 🐦 X: https://x.com/archadi_dev
 - 📧 Email: akkpk933@gmail.com
-- 📃 Resume: https://drive.google.com/file/d/1ocDAJkHV-2fs_eAvr8YN1nvOTHXQrlBA/view?usp=drivesdk
+- 📃 Resume: [Resume](https://drive.google.com/file/d/18SjQMoQR8-fjxI-B6kPhnNM7Vmr5l62g/view?usp=sharing)
 ---
 
 ⭐ Always building, always learning.
