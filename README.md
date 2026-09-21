@@ -8,7 +8,7 @@ Currently building **PushPostVault**, a cloud-native file storage platform with 
 
 ## 🚀 Current Focus
 
-- 📦 Building [**PushPostVault**]([https://www.pushpostvault.com])
+- 📦 Building **PushPostVault** => https://www.pushpostvault.com
 - 🐹 Backend Development with Go
 - ☁️ Cloud & Distributed Systems
 - 🤖 Generative AI & AI Agents
@@ -42,7 +42,7 @@ Distributed Systems • Event-Driven Architecture • AI Engineering
 - 💼 LinkedIn: https://linkedin.com/in/akkpk
 - 🐦 X: https://x.com/archadi_dev
 - 📧 Email: akkpk933@gmail.com
-- 📃 Resume: [Resume]([https://www.pushpostvault.com/s/111d33ec-35ef-49b9-8991-946407df92cc])
+- 📃 Resume: https://www.pushpostvault.com/s/111d33ec-35ef-49b9-8991-946407df92cc
 ---
 
 ⭐ Always building, always learning.
