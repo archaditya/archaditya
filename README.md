@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About me
 
-Backend engineer (2 years) with production experience in **Node.js / Express (MERN)** and **FastAPI**, plus **Go** for high-concurrency services. I like owning systems end to end: design, implementation, deployment, and monitoring.
+Backend Software Engineer (2 years) with production experience in **Node.js / Express (MERN)** and **FastAPI**, plus **Go** for high-concurrency services. I like owning systems end to end: design, implementation, deployment, and monitoring.
 
 - 💼 **Day job:** Software Engineer at **Spirehubs Softwares**. I own two products: **DWIVE** (ride-hailing platform) and **Spire Engage** (multi-tenant AI agent platform)
 - 🚀 **Own product:** I build, run, and market **[PushPostVault](https://www.pushpostvault.com)**, a live file-sharing SaaS used daily by teams
